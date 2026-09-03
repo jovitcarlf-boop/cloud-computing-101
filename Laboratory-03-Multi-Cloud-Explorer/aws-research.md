@@ -1,24 +1,23 @@
 # AWS Research File - Amazon Web Services
 
-## 📌 Section 1: Brief Overview
+##  Section 1: Brief Overview
 
 Amazon Web Services (AWS) is the world's most comprehensive and widely used cloud computing platform offered by Amazon. AWS was launched on March 14, 2006, making it the pioneer in the cloud computing industry with over 18 years of experience. The platform provides on-demand computing resources, including servers, storage, databases, and networking, allowing businesses to scale their IT infrastructure without purchasing physical hardware. AWS serves millions of customers worldwide, from startups to Fortune 500 companies, offering over 200 services across different categories including compute, storage, databases, networking, security, and analytics.
 
 ---
 
-## 🌍 Section 2: Global Infrastructure
+##  Section 2: Global Infrastructure
 
 AWS operates a global infrastructure with over 30 regions and 96 availability zones spread across 6 continents. Regions are independent geographical areas containing multiple availability zones, ensuring high availability and disaster recovery. Each availability zone (AZ) is a distinct data center with redundant power, cooling, and networking to minimize single points of failure. This global presence allows AWS customers to deploy applications closer to their users, reducing latency and improving performance. AWS infrastructure in Asia-Pacific region includes availability in Tokyo, Singapore, Mumbai, and Sydney, making it ideal for companies serving Asian markets.
 
 ---
 
-## 🖥️ Section 3: Cloud Management Console
+##  Section 3: Cloud Management Console
 
 ### How to Access AWS Management Console
 
 The AWS Management Console is accessed by visiting https://console.aws.amazon.com and logging in with your AWS account credentials. The console provides a web-based interface to manage all AWS services in one centralized location. Once logged in, you see a dashboard displaying all services organized by category: Compute, Storage, Database, Networking, Security, Management, and Analytics. The console includes a search bar to quickly find services, a service favorites section for frequently used tools, and the AWS Lambda console for serverless computing. The interface displays current usage, costs, and recent activities, giving you a complete overview of your cloud resources.
 
-**Screenshot:** Take a screenshot of the AWS console homepage to show the dashboard layout, service categories, and navigation options.
 
 ---
 
@@ -42,7 +41,7 @@ VPC is AWS's networking service that allows you to create an isolated virtual ne
 
 ---
 
-## ✅ Section 5: Three (3) Advantages of AWS
+##  Section 5: Three (3) Advantages of AWS
 
 ### Advantage 1: Broadest Range of Services
 
@@ -58,7 +57,7 @@ AWS's 30+ regions and 96 availability zones worldwide ensure your applications r
 
 ---
 
-## 🏢 Section 6: Typical Enterprise Use Cases
+##  Section 6: Typical Enterprise Use Cases
 
 ### Use Case 1: Streaming Services and Media
 
@@ -78,7 +77,7 @@ Companies backup their critical data to AWS S3 from their on-premises data cente
 
 ---
 
-## 📊 Summary Table
+##  Summary Table
 
 | Aspect | Details |
 |--------|---------|
