@@ -6,7 +6,7 @@ Microsoft Azure, originally launched as "Windows Azure" in 2010, is Microsoft's 
 
 ---
 
-## 🌍 Section 2: Global Infrastructure
+##  Section 2: Global Infrastructure
 
 Microsoft Azure operates in 60+ regions worldwide, making it one of the most globally distributed cloud platforms available today. Azure's infrastructure spans across all continents including North America, South America, Europe, Asia Pacific, Middle East, and Africa. The platform uses "region pairs" where regions are paired together for disaster recovery and automatic failover to minimize downtime during outages. Each region contains multiple availability zones, providing redundancy and high availability for mission-critical applications. Azure's commitment to building data centers in multiple countries ensures data residency compliance for organizations subject to strict regulatory requirements.
 
