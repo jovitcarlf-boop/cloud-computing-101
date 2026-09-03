@@ -1,6 +1,6 @@
 # Azure Research File - Microsoft Azure
 
-## 📌 Section 1: Brief Overview
+##  Section 1: Brief Overview
 
 Microsoft Azure, originally launched as "Windows Azure" in 2010, is Microsoft's comprehensive cloud computing platform that provides a wide range of cloud services. Azure evolved from Azure into a global cloud platform offering compute, storage, databases, artificial intelligence, and integration services. The platform is particularly known for seamless integration with Microsoft's existing products like Windows Server, Office 365, Active Directory, and Dynamics 365. Azure is widely adopted by enterprises worldwide, especially organizations that already invest heavily in Microsoft technologies. As of 2024, Azure is the second-largest cloud provider globally with millions of customers benefiting from its hybrid cloud capabilities and enterprise-grade security.
 
@@ -12,17 +12,15 @@ Microsoft Azure operates in 60+ regions worldwide, making it one of the most glo
 
 ---
 
-## 🖥️ Section 3: Cloud Management Console
+##  Section 3: Cloud Management Console
 
 ### How to Access Azure Portal
 
 The Azure Portal is accessed by navigating to https://portal.azure.com and logging in with your Microsoft account or Azure credentials. Upon login, you are presented with the Azure Dashboard showing all your subscriptions, resources, and recent activities. The portal provides a clean interface organized by resource groups, subscriptions, and service categories. A left sidebar menu displays all available services alphabetically, making it easy to find what you need. The dashboard widget displays useful information like resource counts, recent notifications, and cost tracking, giving you a complete overview of your cloud environment.
 
-**Screenshot:** Take a screenshot of the Azure Portal homepage to show the dashboard interface, service menu, and resource organization.
-
 ---
 
-## 🔧 Section 4: Four (4) Core Azure Services
+##  Section 4: Four (4) Core Azure Services
 
 ### Service 1: Virtual Machines
 
@@ -42,7 +40,7 @@ Azure Storage Accounts provide secure, scalable cloud storage for data of any si
 
 ---
 
-## ✅ Section 5: Three (3) Advantages of Azure
+##  Section 5: Three (3) Advantages of Azure
 
 ### Advantage 1: Perfect Integration with Microsoft Ecosystem
 
@@ -58,7 +56,7 @@ Azure provides comprehensive security features including built-in firewalls, DDo
 
 ---
 
-## 🏢 Section 6: Typical Enterprise Use Cases
+##  Section 6: Typical Enterprise Use Cases
 
 ### Use Case 1: Enterprise Digital Transformation
 
@@ -78,7 +76,7 @@ Banks and financial institutions use Azure to run critical applications handling
 
 ---
 
-## 📊 Summary Table
+##  Summary Table
 
 | Aspect | Details |
 |--------|---------|
